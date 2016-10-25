@@ -22,6 +22,5 @@ public class Provider {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		//System.out.println("asdf");
 	}
 }
