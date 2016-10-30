@@ -1,13 +1,11 @@
-package pand.dubbo.controller;
-
-import java.io.IOException;
+package pand.dubbo.test.controller;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Provider {
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		
-		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("/spring/spring-provider.xml");  
+		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("/spring/dubbo-provider.xml");  
 
 		context.start();  
         try {
@@ -22,5 +20,5 @@ public class Provider {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-	}
+	}*/
 }

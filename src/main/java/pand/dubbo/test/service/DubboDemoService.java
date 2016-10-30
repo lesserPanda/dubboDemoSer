@@ -1,8 +1,8 @@
-package pand.dubbo.service;
+package pand.dubbo.test.service;
 
 import java.util.List;
 
-import pand.dubbo.bean.User;
+import pand.dubbo.test.bean.User;
 
 public interface DubboDemoService {
 	String sayHello(String name);  
